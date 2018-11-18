@@ -1,0 +1,1203 @@
+body{
+background-color: white;
+}
+
+.right{
+	position: absolute;
+	right: 10px;
+}
+
+.bg{
+  top:228px;
+  left: 72px;
+  width:1296px;
+  height: 288px;
+  position: absolute;
+}
+
+
+h1{
+  position: absolute;
+  color: black;
+  font-family: Futura-Thin;
+  font-weight: 100;
+  text-align: center;
+}
+
+.d1{
+  width: 50%;
+  position: absolute;
+  left: 33%;
+}
+
+
+
+.sound1{
+  position: absolute;
+  top:228px;
+  left: 5%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.4;
+}
+
+.sound1:hover{
+    position: absolute;
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+
+}
+
+.sound2{
+  position: absolute;
+  top:228px;
+  left: 10%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.45;
+}
+
+.sound2:hover{
+  position: absolute;
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound3{
+  position: absolute;
+  top:228px;
+  left: 15%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.5;
+}
+
+.sound3:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound4{
+  position: absolute;
+  top:228px;
+  left: 20%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.55;
+}
+
+.sound4:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound5{
+  position: absolute;
+  top:228px;
+  left: 25%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.6;
+}
+
+.sound5:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound6{
+  position: absolute;
+  top:228px;
+  left: 30%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.65;
+}
+
+.sound6:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound7{
+  position: absolute;
+  top:228px;
+  left: 35%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.7;
+}
+
+.sound7:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+.sound8{
+  position: absolute;
+  top:228px;
+  left: 40%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.75;
+}
+
+.sound8:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+.sound9{
+  position: absolute;
+  top:228px;
+  left: 45%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.8;
+}
+
+.sound9:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound10{
+  position: absolute;
+  top:228px;
+  left: 50%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.8;
+}
+
+.sound10:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound11{
+  position: absolute;
+  top:228px;
+  left: 55%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.75;
+}
+
+.sound11:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound12{
+  position: absolute;
+  top:228px;
+  left: 60%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.7;
+}
+
+.sound12:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound13{
+  position: absolute;
+  top:228px;
+  left: 65%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.65;
+}
+
+.sound13:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound14{
+  position: absolute;
+  top:228px;
+  left: 70%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.6;
+}
+
+.sound14:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound15{
+  position: absolute;
+  top:228px;
+  left: 75%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.55;
+}
+
+.sound15:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound16{
+  position: absolute;
+  top:228px;
+  left: 80%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.5;
+}
+
+.sound16:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound17{
+  position: absolute;
+  top:228px;
+  left: 85%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.45;
+}
+
+.sound17:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound18{
+  position: absolute;
+  top:228px;
+  left: 90%;
+  height: 72px;
+  width: 72px;
+  background-color: red;
+  opacity: 0.4;
+}
+
+.sound18:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+
+.sound1x{
+  position: absolute;
+  top:300px;
+  left: 5%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.4;
+}
+
+.sound1x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound2x{
+  position: absolute;
+  top:300px;
+  left: 10%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.45;
+}
+
+.sound2x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound3x{
+  position: absolute;
+  top:300px;
+  left: 15%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.5;
+}
+
+.sound3x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound4x{
+  position: absolute;
+  top:300px;
+  left: 20%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.55;
+}
+
+.sound4x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound5x{
+  position: absolute;
+  top:300px;
+  left: 25%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.6;
+}
+
+.sound5x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound6x{
+  position: absolute;
+  top:300px;
+  left: 30%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.65;
+}
+
+.sound6x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound7x{
+  position: absolute;
+  top:300px;
+  left: 35%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.7;
+}
+
+.sound7x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound8x{
+  position: absolute;
+  top:300px;
+  left: 40%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.75;
+}
+
+.sound8x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound9x{
+  position: absolute;
+  top:300px;
+  left: 45%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.8;
+}
+
+.sound9x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound10x{
+  position: absolute;
+  top:300px;
+  left: 50%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.8;
+}
+
+.sound10x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound11x{
+  position: absolute;
+  top:300px;
+  left: 55%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.75;
+}
+
+.sound11x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound12x{
+  position: absolute;
+  top:300px;
+  left: 60%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.7;
+}
+
+.sound12x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound13x{
+  position: absolute;
+  top:300px;
+  left: 65%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.65;
+}
+
+.sound13x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound14x{
+  position: absolute;
+  top:300px;
+  left: 70%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.6;
+}
+
+.sound14x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound15x{
+  position: absolute;
+  top:300px;
+  left: 75%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.55;
+}
+
+.sound15x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound16x{
+  position: absolute;
+  top:300px;
+  left: 80%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.5;
+}
+
+.sound16x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound17x{
+  position: absolute;
+  top:300px;
+  left: 85%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.45;
+}
+
+.sound17x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound18x{
+  position: absolute;
+  top:300px;
+  left: 90%;
+  height: 72px;
+  width: 72px;
+  background-color: blue;
+  opacity: 0.4;
+}
+
+.sound18x:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound1y{
+  position: absolute;
+  top:372px;
+  left: 5%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.4;
+}
+
+.sound1y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound2y{
+  position: absolute;
+  top:372px;
+  left: 10%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.45;
+}
+
+.sound2y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound3y{
+  position: absolute;
+  top:372px;
+  left: 15%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.5;
+}
+
+.sound3y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound4y{
+  position: absolute;
+  top:372px;
+  left: 20%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.55;
+}
+
+.sound4y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound5y{
+  position: absolute;
+  top:372px;
+  left: 25%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.6;
+}
+
+.sound5y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound6y{
+  position: absolute;
+  top:372px;
+  left: 30%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.65;
+}
+
+.sound6y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound7y{
+  position: absolute;
+  top:372px;
+  left: 35%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.7;
+}
+
+.sound7y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound8y{
+  position: absolute;
+  top:372px;
+  left: 40%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.75;
+}
+
+.sound8y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound9y{
+  position: absolute;
+  top:372px;
+  left: 45%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.8;
+}
+
+.sound9y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound10y{
+  position: absolute;
+  top:372px;
+  left: 50%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.8;
+}
+
+.sound10y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound11y{
+  position: absolute;
+  top:372px;
+  left: 55%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.75;
+}
+
+.sound11y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound12y{
+  position: absolute;
+  top:372px;
+  left: 60%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.7;
+}
+
+.sound12y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound13y{
+  position: absolute;
+  top:372px;
+  left: 65%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.65;
+}
+
+.sound13y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound14y{
+  position: absolute;
+  top:372px;
+  left: 70%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.6;
+}
+
+.sound14y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound15y{
+  position: absolute;
+  top:372px;
+  left: 75%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.55;
+}
+
+.sound15y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound16y{
+  position: absolute;
+  top:372px;
+  left: 80%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.5;
+}
+
+.sound16y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound17y{
+  position: absolute;
+  top:372px;
+  left: 85%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.45;
+}
+
+.sound17y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound18y{
+  position: absolute;
+  top:372px;
+  left: 90%;
+  height: 72px;
+  width: 72px;
+  background-color: #FFF000;
+  opacity: 0.4;
+}
+
+.sound18y:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound1z{
+  position: absolute;
+  top:444px;
+  left: 5%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.4;
+}
+
+.sound1z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound2z{
+  position: absolute;
+  top:444px;
+  left: 10%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.45;
+}
+
+.sound2z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound3z{
+  position: absolute;
+  top:444px;
+  left: 15%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.5;
+}
+
+.sound3z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound4z{
+  position: absolute;
+  top:444px;
+  left: 20%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.55;
+}
+
+.sound4z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound5z{
+  position: absolute;
+  top:444px;
+  left: 25%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.6;
+}
+
+.sound5z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound6z{
+  position: absolute;
+  top:444px;
+  left: 30%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.65;
+}
+
+.sound6z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound7z{
+  position: absolute;
+  top:444px;
+  left: 35%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.7;
+}
+
+.sound7z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound8z{
+  position: absolute;
+  top:444px;
+  left: 40%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.75;
+}
+
+.sound8z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound9z{
+  position: absolute;
+  top:444px;
+  left: 45%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.8;
+}
+
+.sound9z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound10z{
+  position: absolute;
+  top:444px;
+  left: 50%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.8;
+}
+
+.sound10z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound11z{
+  position: absolute;
+  top:444px;
+  left: 55%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.75;
+}
+
+.sound11z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound12z{
+  position: absolute;
+  top:444px;
+  left: 60%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.7;
+}
+
+.sound12z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound13z{
+  position: absolute;
+  top:444px;
+  left: 65%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.65;
+}
+
+.sound13z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound14z{
+  position: absolute;
+  top:444px;
+  left: 70%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.6;
+}
+
+.sound14z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound15z{
+  position: absolute;
+  top:444px;
+  left: 75%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.55;
+}
+
+.sound15z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound16z{
+  position: absolute;
+  top:444px;
+  left: 80%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.5;
+}
+
+.sound16z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound17z{
+  position: absolute;
+  top:444px;
+  left: 85%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.45;
+}
+
+.sound17z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+.sound18z{
+  position: absolute;
+  top:444px;
+  left: 90%;
+  height: 72px;
+  width: 72px;
+  background-color: #00FF00;
+  opacity: 0.4;
+}
+
+.sound18z:hover{
+  opacity: 1;
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+
+
+@keyframes shake {
+0% { transform: translate(1px, 1px) rotate(0deg); }
+10% { transform: translate(-1px, -2px) rotate(-1deg); }
+20% { transform: translate(-3px, 0px) rotate(1deg); }
+30% { transform: translate(3px, 2px) rotate(0deg); }
+40% { transform: translate(1px, -1px) rotate(1deg); }
+50% { transform: translate(-1px, 2px) rotate(-1deg); }
+60% { transform: translate(-3px, 1px) rotate(0deg); }
+70% { transform: translate(3px, 1px) rotate(-1deg); }
+80% { transform: translate(-1px, -1px) rotate(1deg); }
+90% { transform: translate(1px, 2px) rotate(0deg); }
+100% { transform: translate(1px, -2px) rotate(-1deg); }
+}

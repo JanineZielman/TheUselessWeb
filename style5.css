@@ -1,0 +1,72 @@
+body {
+	overflow: hidden;
+	background-color: black;
+}
+
+p1 {
+	color: white;
+	left: 15px;
+	font-family: monospace;
+	font-size: 15px;
+	position: absolute;
+	top:10px;;
+}
+
+p2 {
+	color: #000;
+	left: 20px;
+	font-family: helvetica;
+	font-size: 30px;
+	position: absolute;
+	bottom:20px;;
+}
+
+canvas {
+	left: 0;
+	position: absolute;
+	top: 0;
+	opacity: 0.25;
+}
+
+img{
+	position: absolute;
+	width: 1600px;
+	top: 0px;
+}
+
+button{
+	position: absolute;
+	background-color: black;
+	color: white;
+	font-size: 15px;
+
+}
+
+.pig{
+	position: absolute;
+	left: 50px;
+}
+
+.cow2{
+	position: absolute;
+	left: 180px;
+}
+
+.cow{
+	position: absolute;
+	left: 315px;
+}
+
+.trump{
+	position: absolute;
+	left: 492px;
+}
+
+a{
+	position: absolute;
+}
+
+.right{
+	position: absolute;
+	right: 10px;
+}

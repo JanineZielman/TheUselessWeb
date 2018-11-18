@@ -1,0 +1,44 @@
+body {
+	overflow: hidden;
+	background-color: white;
+}
+
+.right{
+	position: absolute;
+	right: 10px;
+}
+
+p1 {
+	color: white;
+	left: 15px;
+	font-family: monospace;
+	font-size: 15px;
+	position: absolute;
+	top:10px;;
+}
+
+p2 {
+	color: #000;
+	left: 20px;
+	font-family: helvetica;
+	font-size: 30px;
+	position: absolute;
+	bottom:20px;;
+}
+
+canvas {
+	left: 0;
+	position: absolute;
+	top: 0;
+	opacity: 0.5;
+}
+
+img{
+	position: absolute;
+	left: 0px;
+	top:0px;
+}
+
+a{
+	position: absolute;
+}
