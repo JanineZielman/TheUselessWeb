@@ -3,6 +3,11 @@ body {
 	background-color: black;
 }
 
+.right{
+	position: absolute;
+	right: 10px;
+}
+
 p1 {
 	color: white;
 	left: 15px;
