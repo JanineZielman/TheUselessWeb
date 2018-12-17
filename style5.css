@@ -36,37 +36,37 @@ img{
 
 button{
 	position: absolute;
-	background-color: black;
+	background-color: inherit;
+	opacity: 0;
 	color: white;
 	font-size: 15px;
+	width: 720px;
+	height: 450px;
 
 }
 
 .pig{
 	position: absolute;
-	left: 50px;
+	left: 0px;
+	padding: 200px;
 }
 
 .cow2{
 	position: absolute;
-	left: 180px;
+	left: 0px;
+	bottom: 0px;
+	padding: 200px;
 }
 
 .cow{
 	position: absolute;
-	left: 315px;
+	right: 0px;
+	padding: 200px;
 }
 
 .trump{
 	position: absolute;
-	left: 492px;
-}
-
-a{
-	position: absolute;
-}
-
-.right{
-	position: absolute;
-	right: 10px;
+	right: 0px;
+	bottom: 0px;
+	padding: 200px;
 }
